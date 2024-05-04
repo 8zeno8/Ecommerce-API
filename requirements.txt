@@ -4,3 +4,4 @@ djangorestframework
 drf-nested-routers
 django-filter
 mixins
+mysqlclient
