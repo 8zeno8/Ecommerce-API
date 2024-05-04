@@ -1,0 +1,6 @@
+pipenv
+Django
+djangorestframework
+drf-nested-routers
+django-filter
+mixins
